@@ -17,7 +17,7 @@ There are 2 methods to getting VVV, but we recommend using `git` as it makes upd
 **This is the recommended method** for installing VVV. Clone the main VVV repo into a local directory:
 
 ```
-git clone -b master git://github.com/Varying-Vagrant-Vagrants/VVV.git ~/vagrant-local
+git clone -b master git://github.com/Varying-Vagrant-Vagrants/VVV.git vagrant-local
 ```
 
 Alternatively, for faster updates and bleeding edge features, or if you want to help test the next version, use the `develop` branch instead of the `master` branch.
